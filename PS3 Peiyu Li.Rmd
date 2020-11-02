@@ -20,6 +20,7 @@ survey_data <- read_csv("~/Desktop/PS3/outputs/survey_data.csv")
 census_data <- read_csv("~/Desktop/PS3/outputs/census_data.csv")
 ```
 ## Code and data supporting this analysis is available at: 
+https://github.com/PeiyuBellaLi/STA304-PS3
 
 # Model
 I am interested in predicting the overall popular vote of the 2020 American federal election ("2020 United States presidential election", 2020) based on a survey result. In order to make the prediction more accurate, I am using a post-stratification technique. I will first build a model based on the survey data, then used this model to predict the result for the census data which is divided into different cells based on my predictor variables. The calculation of the final result and the specific steps will be discussed in the following sub-section.
