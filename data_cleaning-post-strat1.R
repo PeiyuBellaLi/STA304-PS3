@@ -1,5 +1,5 @@
 #### Preamble ####
-# Purpose: Prepare and clean the survey data downloaded from Nationscape
+# Purpose: Prepare and clean the survey data downloaded from IPUMS
 # Author: Peiyu Li
 # Data: 30 October 2020
 # Contact: bella.li@mail.utoronto.ca
